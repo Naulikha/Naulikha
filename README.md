@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Naulikha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naulikha&icon=0&color=0)](https://visitcount.itsvg.in)
