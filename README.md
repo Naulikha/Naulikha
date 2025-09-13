@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Naulikha
 ⚡Gamer on a journey of becoming a Cyber Security analyst.<br>
 🌱Studied: Information Communication Technology at Daystar University, Nairobi, Kenya.<br> 
-           Software Engineering at Moringa School, Nairobi, Kenya <br>
-🌱Currently studying Computing Science at Griffith College, Cork, Ireland. <br>
+           Software Engineering at Moringa School, Nairobi, Kenya. <br>
+🌱Currently studying Computing Science at Griffith College, Cork, Ireland.<br>
 💬I am currently working on consistency to build a habit of learning everyday.<br>
 💬I am also working on starting a blog to document my journey thus far and will add the link once it's in working condition.<br><br>
 
